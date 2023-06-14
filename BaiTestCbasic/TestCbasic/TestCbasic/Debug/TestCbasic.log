@@ -1,0 +1,9 @@
+﻿  TestCbasic.cpp
+D:\BaiTapC\BaiTestCbasic\TestCbasic\TestCbasic\TestCbasic.cpp(69,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\BaiTapC\BaiTestCbasic\TestCbasic\TestCbasic\TestCbasic.cpp(70,6): warning C4101: 'a': unreferenced local variable
+D:\BaiTapC\BaiTestCbasic\TestCbasic\TestCbasic\TestCbasic.cpp(70,9): warning C4101: 'b': unreferenced local variable
+D:\BaiTapC\BaiTestCbasic\TestCbasic\TestCbasic\TestCbasic.cpp(71,7): warning C4101: 'c': unreferenced local variable
+D:\BaiTapC\BaiTestCbasic\TestCbasic\TestCbasic\TestCbasic.cpp(70,15): warning C4101: 'j': unreferenced local variable
+D:\BaiTapC\BaiTestCbasic\TestCbasic\TestCbasic\TestCbasic.cpp(70,12): warning C4101: 'i': unreferenced local variable
+D:\BaiTapC\BaiTestCbasic\TestCbasic\TestCbasic\TestCbasic.cpp(70,18): warning C4101: 'n': unreferenced local variable
+  TestCbasic.vcxproj -> D:\BaiTapC\BaiTestCbasic\TestCbasic\Debug\TestCbasic.exe

@@ -1,0 +1,6 @@
+﻿  part2.cpp
+D:\BaiTapC\LTS\LTS\part2.cpp(26,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\BaiTapC\LTS\LTS\part2.cpp(30,2): warning C4551: function call missing argument list
+D:\BaiTapC\LTS\LTS\part2.cpp(27,6): warning C4101: 'arr': unreferenced local variable
+D:\BaiTapC\LTS\LTS\part2.cpp(28,6): warning C4101: 'n': unreferenced local variable
+  LTS.vcxproj -> D:\BaiTapC\LTS\Debug\LTS.exe
